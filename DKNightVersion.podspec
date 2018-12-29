@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author             = { "Draveness" => "stark.draven@gmail.com" }
   s.platform     = :ios, "7.0"
   s.requires_arc = true
-  s.source       = { :git => "https://github.com/Draveness/DKNightVersion.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/liangqing1028/DKNightVersion.git", :tag => s.version }
   s.source_files = "DKNightVersion/DKNightVersion.h"
 
   s.public_header_files = "DKNightVersion/DKNightVersion.h"

@@ -1,10 +1,7 @@
-NORMAL   NIGHT    RED
-#ffffff  #343434  #fafafa BG
-#aaaaaa  #313131  #aaaaaa SEP
-#0000ff  #ffffff  #fa0000 TINT
-#000000  #ffffff  #000000 TEXT
-#ffffff  #444444  #ffffff BAR
-#f0f0f0  #222222  #dedede HIGHLIGHTED
-
-
-  
+NORMAL   NIGHT    RED      GREEN    BLUE     OGANGE   PURPLE   LBLUE
+#00a0e9  #343434  #f65925  #22b24c  #2271f3  #f39800  #601986  #00a0e9 BG
+#aaaaaa  #313131  #aaaaaa  #fafafa  #2271f3  #f39800  #601986  #00a0e9 SEP
+#0000ff  #ffffff  #fa0000  #fafafa  #2271f3  #f39800  #601986  #00a0e9 TINT
+#000000  #ffffff  #000000  #fafafa  #2271f3  #f39800  #601986  #00a0e9 TEXT
+#ffffff  #444444  #ffffff  #fafafa  #2271f3  #f39800  #601986  #00a0e9 BAR
+#f0f0f0  #222222  #dedede  #fafafa  #2271f3  #f39800  #601986  #00a0e9 HIGHLIGHTED
